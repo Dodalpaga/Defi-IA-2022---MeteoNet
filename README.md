@@ -1,1 +1,1 @@
-# Defi-IA-2022---MeteoNet
+# Defi-IA-2022-MeteoNet
